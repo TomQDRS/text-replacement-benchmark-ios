@@ -2,6 +2,8 @@
 
 This project was set up to demonstrate with minimal code an error that causes the text replacement suggestions to anchor at the wrong point.
 
+https://developer.apple.com/forums/thread/720565
+
 ## Reproduction Steps
 
 1. Tap the TextEditor field at the bottom of the screen
