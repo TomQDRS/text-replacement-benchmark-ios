@@ -13,6 +13,6 @@ This project was set up to demonstrate with minimal code an error that causes th
 
 The keyboard will now move up again, and the text replacement popup will appear with a big offset to where it should actually appear.
 
-##Example image
+## Example image
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-23 at 09 40 30](https://user-images.githubusercontent.com/12124446/203503900-23e96015-8044-4d1a-a846-37e8e7620280.png)
